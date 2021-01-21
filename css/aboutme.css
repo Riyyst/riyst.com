@@ -5,8 +5,8 @@
 }
 
 body {
-    background-color: rgb(3, 12, 44);
-    background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b003f266787363.5b2216b70df77.png");
+    background-color: #030c2c;
+    background-image: url('');
     background-repeat: no-repeat;
     background-size: 100% 30vh;
 }
@@ -25,7 +25,7 @@ nav ul {
     list-style-type: none;
     font: normal 20px Arial, Helvetica, sans-serif;
     text-align: center;
-    padding-bottom: 200px;
+    padding-bottom: 75px;
 }
 
 nav ul li {
@@ -41,14 +41,14 @@ nav ul li a {
 
 
 .box-1 {
-    padding-bottom: 100px;
-    padding-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     color:rgb(255, 255, 255);
 }
 
 .box-1 p {
     padding-left: 10px;
-    font: normal 30px Arial, Helvetica, sans-serif;
+    font: normal 20px Arial, Helvetica, sans-serif;
 }
 
 .box-1 p a {
@@ -56,13 +56,15 @@ nav ul li a {
 }
 
 .box-2 {
-    padding-bottom: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .box-2 p {
-    font: bold 30px Arial, Helvetica, sans-serif;
-    padding-left: 15px;
-    color: rgb(0, 0, 0);
+    font: normal 20px Arial, Helvetica, sans-serif;
+    padding-top: 50px;
+    padding-left: 10px;
+    color: rgb(255, 255, 255);
 }
 
 .box-2 p a {
@@ -74,9 +76,10 @@ nav ul li a {
 }
 
 .box-3 p {
-    font: bold 30px Arial, Helvetica, sans-serif;
-    padding-left: 15px;
-    color: rgb(0, 0, 0);
+    font: normal 20px Arial, Helvetica, sans-serif;
+    padding-top: 50px;
+    padding-left: 10px;
+    color: rgb(255, 255, 255);
 }
 
 .box-3 p a {
@@ -88,9 +91,9 @@ nav ul li a {
 }
 
 .box-4 p {
-    font: bold 30px Arial, Helvetica, sans-serif;
+    font: normal 20px Arial, Helvetica, sans-serif;
     padding-left: 15px;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
 
 .box-4 p a {
